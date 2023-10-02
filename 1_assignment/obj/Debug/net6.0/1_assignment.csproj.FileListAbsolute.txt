@@ -1,0 +1,14 @@
+C:\Users\79116\Desktop\Design patterns and object-oriented techniques\1_assignment\bin\Debug\net6.0\1_assignment.exe
+C:\Users\79116\Desktop\Design patterns and object-oriented techniques\1_assignment\bin\Debug\net6.0\1_assignment.deps.json
+C:\Users\79116\Desktop\Design patterns and object-oriented techniques\1_assignment\bin\Debug\net6.0\1_assignment.runtimeconfig.json
+C:\Users\79116\Desktop\Design patterns and object-oriented techniques\1_assignment\bin\Debug\net6.0\1_assignment.dll
+C:\Users\79116\Desktop\Design patterns and object-oriented techniques\1_assignment\bin\Debug\net6.0\1_assignment.pdb
+C:\Users\79116\Desktop\Design patterns and object-oriented techniques\1_assignment\obj\Debug\net6.0\1_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79116\Desktop\Design patterns and object-oriented techniques\1_assignment\obj\Debug\net6.0\1_assignment.AssemblyInfoInputs.cache
+C:\Users\79116\Desktop\Design patterns and object-oriented techniques\1_assignment\obj\Debug\net6.0\1_assignment.AssemblyInfo.cs
+C:\Users\79116\Desktop\Design patterns and object-oriented techniques\1_assignment\obj\Debug\net6.0\1_assignment.csproj.CoreCompileInputs.cache
+C:\Users\79116\Desktop\Design patterns and object-oriented techniques\1_assignment\obj\Debug\net6.0\1_assignment.dll
+C:\Users\79116\Desktop\Design patterns and object-oriented techniques\1_assignment\obj\Debug\net6.0\refint\1_assignment.dll
+C:\Users\79116\Desktop\Design patterns and object-oriented techniques\1_assignment\obj\Debug\net6.0\1_assignment.pdb
+C:\Users\79116\Desktop\Design patterns and object-oriented techniques\1_assignment\obj\Debug\net6.0\1_assignment.genruntimeconfig.cache
+C:\Users\79116\Desktop\Design patterns and object-oriented techniques\1_assignment\obj\Debug\net6.0\ref\1_assignment.dll
