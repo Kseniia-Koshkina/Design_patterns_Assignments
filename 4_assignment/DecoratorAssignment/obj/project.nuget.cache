@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fbt/NAv8mX8R5pYs/uFYlJCbeEBaE9qTb1l8W85uCJhbFTmqn3lJ9wJxOT7OkXZ7kND/50h650NNgvlEM/O29A==",
+  "dgSpecHash": "ALv0/dE1oPv28g42AtSh0mtboj6oFVPJC9Ge4J76I84+Zd5500tZwQ5qfN7TQG8Wdh8513nlAJf35bch5L5YkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\79116\\Desktop\\Design patterns and object-oriented techniques\\4_assignment\\DecoratorAssignment\\DecoratorAssignment.csproj",
+  "projectFilePath": "C:\\Users\\79116\\Desktop\\test\\4_assignment\\DecoratorAssignment\\DecoratorAssignment.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jap2L5EHQHfrUGka1DaOwYqAzuTSPgIRSHTG9qPniPm1jJZJV2ygj3D7430+NcKn6NOfG4CnekzrptP7xm89dw==",
+  "dgSpecHash": "+3fqzZZPzQu+4/3/MpTasv6X1nL0KyeKGPLSueqZCA+Xzo9TSMuK+h6m48ptgGWPg4H6EBnrZ+zNZ/CYwpDlvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\79116\\Desktop\\Design patterns and object-oriented techniques\\4_assignment\\DecoratorTests\\DecoratorTests.csproj",
+  "projectFilePath": "C:\\Users\\79116\\Desktop\\test\\4_assignment\\DecoratorTests\\DecoratorTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\79116\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\79116\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

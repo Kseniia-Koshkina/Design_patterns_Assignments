@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\79116\\Desktop\\Design patterns and object-oriented techniques\\4_assignment\\DecoratorTests\\DecoratorTests.csproj": {}
+    "C:\\Users\\79116\\Desktop\\test\\4_assignment\\DecoratorTests\\DecoratorTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\79116\\Desktop\\Design patterns and object-oriented techniques\\4_assignment\\DecoratorAssignment\\DecoratorAssignment.csproj": {
+    "C:\\Users\\79116\\Desktop\\test\\4_assignment\\DecoratorAssignment\\DecoratorAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\79116\\Desktop\\Design patterns and object-oriented techniques\\4_assignment\\DecoratorAssignment\\DecoratorAssignment.csproj",
+        "projectUniqueName": "C:\\Users\\79116\\Desktop\\test\\4_assignment\\DecoratorAssignment\\DecoratorAssignment.csproj",
         "projectName": "DecoratorAssignment",
-        "projectPath": "C:\\Users\\79116\\Desktop\\Design patterns and object-oriented techniques\\4_assignment\\DecoratorAssignment\\DecoratorAssignment.csproj",
+        "projectPath": "C:\\Users\\79116\\Desktop\\test\\4_assignment\\DecoratorAssignment\\DecoratorAssignment.csproj",
         "packagesPath": "C:\\Users\\79116\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\79116\\Desktop\\Design patterns and object-oriented techniques\\4_assignment\\DecoratorAssignment\\obj\\",
+        "outputPath": "C:\\Users\\79116\\Desktop\\test\\4_assignment\\DecoratorAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\79116\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\79116\\Desktop\\Design patterns and object-oriented techniques\\4_assignment\\DecoratorTests\\DecoratorTests.csproj": {
+    "C:\\Users\\79116\\Desktop\\test\\4_assignment\\DecoratorTests\\DecoratorTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\79116\\Desktop\\Design patterns and object-oriented techniques\\4_assignment\\DecoratorTests\\DecoratorTests.csproj",
+        "projectUniqueName": "C:\\Users\\79116\\Desktop\\test\\4_assignment\\DecoratorTests\\DecoratorTests.csproj",
         "projectName": "DecoratorTests",
-        "projectPath": "C:\\Users\\79116\\Desktop\\Design patterns and object-oriented techniques\\4_assignment\\DecoratorTests\\DecoratorTests.csproj",
+        "projectPath": "C:\\Users\\79116\\Desktop\\test\\4_assignment\\DecoratorTests\\DecoratorTests.csproj",
         "packagesPath": "C:\\Users\\79116\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\79116\\Desktop\\Design patterns and object-oriented techniques\\4_assignment\\DecoratorTests\\obj\\",
+        "outputPath": "C:\\Users\\79116\\Desktop\\test\\4_assignment\\DecoratorTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\79116\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\79116\\Desktop\\Design patterns and object-oriented techniques\\4_assignment\\DecoratorAssignment\\DecoratorAssignment.csproj": {
-                "projectPath": "C:\\Users\\79116\\Desktop\\Design patterns and object-oriented techniques\\4_assignment\\DecoratorAssignment\\DecoratorAssignment.csproj"
+              "C:\\Users\\79116\\Desktop\\test\\4_assignment\\DecoratorAssignment\\DecoratorAssignment.csproj": {
+                "projectPath": "C:\\Users\\79116\\Desktop\\test\\4_assignment\\DecoratorAssignment\\DecoratorAssignment.csproj"
               }
             }
           }
